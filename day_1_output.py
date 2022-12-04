@@ -2,7 +2,7 @@
 # Solved: 04/12/2022 
 import numpy as np 
 import pandas as pd
-base_path = "C:/Users/alixa/OneDrive/Desktop/problems/"
+base_path = "."
 
 #importing, opening, and reading my file 
 my_file_path = base_path + "input_Day1.txt"
